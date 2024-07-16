@@ -1,4 +1,4 @@
-# Grade prject for "Methods of Data Analysis 2"
+# Grade project for "Methods of Data Analysis 2"
 ## Task
 Train a deep neural network, capable of denoising radio signals measured by the Radio-Neutrino-Observatory Greenland (RNO-G).
 ## Content
